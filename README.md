@@ -1,1 +1,1 @@
-These are the questions that i have done during my semster subject in the collge as a lab journal
+This repository contains Data Structures and Algorithms (DSA) programs and problem-solving exercises completed during my semester coursework. It includes implementations of fundamental data structures, algorithms, and coding problems for academic learning and practice.
